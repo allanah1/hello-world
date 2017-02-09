@@ -1,2 +1,3 @@
 # hello-world
-A Hello-world program
+I'm Francis and this is just an assignment.
+
